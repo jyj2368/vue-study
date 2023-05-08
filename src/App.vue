@@ -35,7 +35,6 @@ export default {
     return{
       menu:['Home','Shop','About'],
       products:[{location : '역삼동 원룸', price : '80만원',count : 0},{location : '논현동 원룸', price : '70만원',count : 0 },{location : '계산동 원룸', price : '40만원',count : 0}],
-      //count:0,
     }
   },
   components: { 
